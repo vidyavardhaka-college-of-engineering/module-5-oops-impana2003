@@ -8,9 +8,9 @@
 int main() 
 {
     double a, b, p;
-    //cout << "Enter two Numbers:";
-    //cin >> a >> b;
-    //p = a*b;
-    //cout << p;
+    std::cout << "Enter two Numbers:";
+    std::cin >> a >> b;
+    p = a*b;
+    std::cout << p;
     return 0;
 }
